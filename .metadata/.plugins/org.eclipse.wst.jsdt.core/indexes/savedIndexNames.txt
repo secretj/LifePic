@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Park\Desktop\bitcamp\Project\2차 프로젝트\LifePic\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+645592706.index
+285603262.index
+470139642.index
+3449678894.index
+2107233658.index
