@@ -28,6 +28,6 @@ LifePIC은 사진으로 시작해서 우리 시대의 트렌드와 지역마다 
 
 <h1>👥팀원</h1><br>
 
-![image](https://user-images.githubusercontent.com/78725674/146631607-e288a96c-daa5-490c-b687-ffb8ed7ddc04.png)
+![image](https://user-images.githubusercontent.com/LifePic/images/팀원.png)
 
 <br>
