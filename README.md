@@ -22,7 +22,7 @@ LifePIC은 사진으로 시작해서 우리 시대의 트렌드와 지역마다 
 
 
 <h1>:open_file_folder:  PPT </h1><br>
-<a href="https://secretJ.github.io/LifePic/LifePic-ppt 최종.pptx.pdf" target="_blank">LifePic PPT 자료</a>
+<a href="https://secretJ.github.io/LifePic/LifePic-ppt최종ppt.pdf" target="_blank">LifePic PPT 자료</a>
 
 
 
