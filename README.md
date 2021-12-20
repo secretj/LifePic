@@ -43,26 +43,31 @@ LifePIC은 사진으로 시작해서 우리 시대의 트렌드와 지역마다 
 
 
 <h1> 주요 페이지</h1><br>
-<h4>MAIN</h4><br>
+<li>MAIN<br>
 <br>
 
 ![main](https://user-images.githubusercontent.com/87971916/146738623-1de99bf2-4729-4bbc-a515-e7fd66654936.png)
 
+</li>
 <br>
-<h4>글 목록</h4><br>
+<li>글 목록<br>
 
 ![grid](https://user-images.githubusercontent.com/87971916/146738632-2172db1b-5fae-4d2e-a355-d2a7fe40db2b.png)
 
+</li>
 <br>
-<h4>상세페이지</h4><br>
+<li>상세페이지<br>
 
 ![detail](https://user-images.githubusercontent.com/87971916/146738650-102db5a9-b245-4745-af6e-c2cc7d213b27.png)
 
+</li>
 <br>
-<h4>사용자 프로필</h4><br>
+<li>사용자 프로필<br>
 
 ![profile](https://user-images.githubusercontent.com/87971916/146738655-dff3f1d2-bdd6-4a5c-b773-f3ed4972c6a2.png)
 
+  
+  </li>
 <br>
 
 
