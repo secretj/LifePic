@@ -17,3 +17,17 @@ LifePIC은 사진으로 시작해서 우리 시대의 트렌드와 지역마다 
 
 <li>댓글 기능<br>
 &nbsp;&nbsp; : 사진에 대해 사용자들끼리 이야기할 수 있는 공간을 제공<br><br></li><br>
+
+
+<h1>👩‍💻팀명</h1>
+
+![image](https://user-images.githubusercontent.com/78725674/146631906-485d5ee4-f958-45be-a173-396f5190ca1c.png)
+
+
+
+
+<h1>👥팀원</h1><br>
+
+![image](https://user-images.githubusercontent.com/78725674/146631607-e288a96c-daa5-490c-b687-ffb8ed7ddc04.png)
+
+<br>
