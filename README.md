@@ -19,15 +19,28 @@ LifePIC은 사진으로 시작해서 우리 시대의 트렌드와 지역마다 
 &nbsp;&nbsp; : 사진에 대해 사용자들끼리 이야기할 수 있는 공간을 제공<br><br></li><br>
 
 
+
+
+<h1>:open_file_folder:  PPT </h1><br>
+<a href="https://secretJ.github.io/LifePic/LifePic-ppt 최종.pptx.pdf" target="_blank">LifePic PPT 자료</a>
+
+
+
 <h1>👩‍💻팀명</h1>
 
-![image](https://user-images.githubusercontent.com/78725674/146631906-485d5ee4-f958-45be-a173-396f5190ca1c.png)
+![플랫폼명](https://user-images.githubusercontent.com/87971916/146734940-27982f03-350c-440b-8bbc-710bc3865a71.png)
+
 
 
 
 
 <h1>👥팀원</h1><br>
 
-![image](https://user-images.githubusercontent.com/78725674/146631607-e288a96c-daa5-490c-b687-ffb8ed7ddc04.png)
+![팀원](https://user-images.githubusercontent.com/87971916/146735124-56b210ed-9e16-4aaf-8016-9d146e5ab886.png)
 
+ 
 <br>
+
+
+
+
