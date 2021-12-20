@@ -31,5 +31,5 @@ LifePIC은 사진으로 시작해서 우리 시대의 트렌드와 지역마다 
 
 ![팀원](https://user-images.githubusercontent.com/87971916/146735124-56b210ed-9e16-4aaf-8016-9d146e5ab886.png)
 
-
+ 
 <br>
