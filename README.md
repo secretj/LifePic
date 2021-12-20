@@ -7,7 +7,7 @@ LifePIC은 사진으로 시작해서 우리 시대의 트렌드와 지역마다 
 </b></p><br>
 
 
-<h1>📆 개발일정</h1>
+<h1> 개발일정</h1>
 2021.09.06 ~ 2021.10.01<br><br>
 
 
@@ -21,20 +21,20 @@ LifePIC은 사진으로 시작해서 우리 시대의 트렌드와 지역마다 
 
 
 
-<h1>:open_file_folder:  PPT </h1><br>
-<a href="https://secretJ.github.io/LifePic/LifePic-ppt 최종.pptx.pdf" target="_blank">LifePic PPT 자료</a>
+<h1> PPT </h1><br>
+<a href="https://github.com/secretj/LifePic/blob/master/LifePic-ppt%EC%B5%9C%EC%A2%85ppt.pdf" target="_blank">LifePic PPT 자료</a>
 
 
 
-<h1>👩‍💻팀명</h1>
+<h1> 팀명</h1>
 
 ![플랫폼명](https://user-images.githubusercontent.com/87971916/146734940-27982f03-350c-440b-8bbc-710bc3865a71.png)
 
+<br>
 
 
 
-
-<h1>👥팀원</h1><br>
+<h1> 팀원</h1><br>
 
 ![팀원](https://user-images.githubusercontent.com/87971916/146735124-56b210ed-9e16-4aaf-8016-9d146e5ab886.png)
 
